@@ -56,7 +56,7 @@ The organization shall be governed by an executive board that is selected throug
 2. The executive body collectively has the responsibility to create policies, document them and administer those policies as deemed in the best interest of the organization 
 3. There will be five members in the executive board who are leaders of functional committees that run the functional activities of the association 
 
-**4.2 KMCA EXECUTIVE BOARD CHARTER **
+4.2 KMCA EXECUTIVE BOARD CHARTER 
 
 1. All members of the Executive Board, individually and collectively, shall endeavor to understand and uphold this Constitution and implement policies in the best interest of the organization 
 2. Define Operational policies and procedures for the Association in accordance with generally accepted Islamic principles and this constitution and document them. 
@@ -78,16 +78,22 @@ The organization shall be governed by an executive board that is selected throug
 3. The duty of the BOT is to ensure legal compliance of the organization at all times and shall not have any rights to interfere in the operations of the board. The BOT and EB shall work together along with qualified CPA, Attorneys etc. to ensure that the organizations remain legally compliant. 
 4. The BOT derives its authority from the constitution of the KMCA(bylaw), and is subject to the provisions of the constitution, including its aims and objectives. 
 5. Board of Trustees are subject to all applicable Federal, State and Local laws and regulations 
+
 4.4.1 Tenure of Board Of Trustees 
+
 1. Full term will be 4 years with an option to drop out in 2 years interval. The expectation is every BOT member does not resign without completing at least half term. 
 2. After a full term (4 years), the same BOT member can continue if no other nominations come for that BOT position 
+
 4.4.2 Protection against Financial and General Liability 
 1. Trustee will not be responsible for any unpaid debt of the Organization e.g.: Unpaid taxes and penalties 2. Trustee will not be responsible for any financial liability resulting from the negligence or reckless conduct or willful /criminal misconduct of the executive board and/or the members of the organization. 3. Trustee cannot be sued by the members of the organization and/or the public, provided Trustee acted in good faith, diligence, and care. 
 4. Trustee cannot be sued if it exercised the fiduciary duties of care, loyalty and obedience while performing its operations 
 5. KMCA to purchase general liability insurance to address any liability issues that could arise in the future. 
+
 4.4.3 Election of the KMCA Board Of Trustees 
+
 4.4.3.1 Election Timing /Schedule 
 Election to select the Board of Trustees will happen every 2 years. Election for the Executive committee and the BoT will happen in alternate years . 
+
 4.4.3.2 BoT Election Committee 
 The KMCA Executive committee Vice President shall form an election committee to conduct the election for BoT . The KMCA executive committee Vice President will assume the role of the returning officer
 for the BoT election. The members of the BoT election committee will be from the KMCA Executive committee. The KMCA BoT election committee should have a minimum 3 members including the vice president of the executive committee. 
@@ -95,6 +101,7 @@ The BoT Election committee should send out the announcement of the BoT election 
 ● Last date to submit the nomination 
 ● Date to Publish the election results 
 ● Polling method and procedure 
+
 4.4.3.3 Eligibility Criteria to contest in KMCA BoT election 
 To Contest for an office in KMCA BoT , all of the following conditions need to be satisfied 
 1. Candidate must be a US Citizen or a US permanent resident. 
@@ -105,10 +112,12 @@ can contest towards an office in the KMCA BoT . A Formal nomination needs to be 
 1. Self Nomination by the candidate with the backing of any KMCA member 
 2. Nomination submitted by a KMCA member on behalf of the candidate, with the approval email from the candidate. It is suggested that BOT should include new members from the community whenever there is an available spot; preferably those who had been successful in EB 
 The nomination needs to be submitted on or before the last date . The right to validate the nomination resides solely on the election committee 
+
 4.4.3.5 Election Results 
 ● KMCA BoT election results will be announced by the Returning officer in email on the date published in the announcement email. 
 ● In the event of a tie in the number of votes for a specific office ,after general election for BoT , the existing working committee can cast their votes again to break the tie and elect the BoT member.If there exists a Tie after this step , then the outgoing BoT can vote to break the tie and elect the BoT member 
 ● In case of any vacancy in the BOT any existing BOT member can temporarily fill that position upon approval from the board. The board may decide to conduct by-elections to fill any vacant position after rearrangement or decide to nominate from among the members.All replacement members must meet the requirements of an elected member and the appointment should be approved by 2/3rd of the Board 
+
 4.4.4 Required Government forms & IRS filing 
 BOT treasurer to work with EB treasurer to ensure that following forms are filed on time 
 1. Tax Filing to IRS - Deadline April every year 
@@ -120,6 +129,7 @@ BOT treasurer to work with EB treasurer to ensure that following forms are filed
 1. Recommended Frequency - Three times in an year 
 2. The quorum for the BOT meeting shall be at least more than 75% of the membership of the BOT enabled by Virtual meetings - 3 out 4 members 
 3. Any decision of BOT needs 2/3rd of approval (2/3 is computed by rounding up to next whole number) - 3 out of 4 members 
+
 4.4.5.2 BOT and EB Meeting 
 a. BOT and EB shall meet on the following schedule. 
 i. Frequency - Three times in an year 
@@ -129,7 +139,9 @@ d. The decisions made at the Joint Sessions of the boards will be binding on the
 e. A copy of all meeting minutes, preliminary or approved, of the Joint Sessions of the boards shall be communicated to the members of the boards and should be saved for the purpose of audit or reference at a later point 
 f. Meeting Agenda may include detailed discussions on Managing taxes, insurance, and legal matters pertaining to the Association and ensuring that all applicable sales, employer and other such tax returns are filed in a timely manner 
 g. For any scenario that needs voting , we need 2/3 majority to make a decision with a minimum attendance of 10 members including at least 50% of BOT (out of 13). For tie breakers, those who could not attend shall cast their vote. 
+
 BOT Roles and Responsibilities 
+
 1. BOT to Assist EB to Develop contingency plans for major financial, legal challenges or emergencies to mitigate a possibility of legal action , dispute etc. 
 2. In case of operational challenges EB can reach out to BOT for consultation and any kind of help .BOT to Assist EB to Ensure legal and financial compliance with all state and federal laws and regulations. 
 3. BOT shall not get involved in conflict resolution between KMCA members and EB or within EB members unless it is affecting legal/financial matters of the organization.These conflicts are to be handled and resolved by the Executive Board. 
