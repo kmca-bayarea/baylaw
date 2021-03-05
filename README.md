@@ -55,7 +55,9 @@ The organization shall be governed by an executive board that is selected throug
 1. The day-to-day activities and operations of the Association shall be managed by an Executive Board consisting of a President and nine members. All the members will be elected by the members of the association. 
 2. The executive body collectively has the responsibility to create policies, document them and administer those policies as deemed in the best interest of the organization 
 3. There will be five members in the executive board who are leaders of functional committees that run the functional activities of the association 
-4.2 KMCA EXECUTIVE BOARD CHARTER 
+
+**4.2 KMCA EXECUTIVE BOARD CHARTER **
+
 1. All members of the Executive Board, individually and collectively, shall endeavor to understand and uphold this Constitution and implement policies in the best interest of the organization 
 2. Define Operational policies and procedures for the Association in accordance with generally accepted Islamic principles and this constitution and document them. 
 3. The executive board members will not receive any remuneration for their work on the board 4. Hold quarterly and annual meetings where detailed implementation plans of each department are presented, discussed and approved. An annual budget based on long-term strategic plans for the Association will also be discussed. 
@@ -63,7 +65,9 @@ The organization shall be governed by an executive board that is selected throug
 6. At least one executive member should be responsible for sponsoring a functional committee 7. Executive board shall establish proper channels including email addresses and phone numbers to which association members can communicate any concerns and feedback 
 8. BOT, Executive Board or the KMCA shall not be bound by any specific statement or action of an individual Trustee, except when such statement or action is in pursuance of specific instructions or actions approved by the BOT and EB . 
 9. KMCA shall defend, indemnify, and hold harmless the Trustees, from any and all claims, demands, actions, causes of action, obligations, costs, expenses, damages, losses or liabilities, that may be asserted against them, strictly and solely in the course of or in relation to pursuance of their function as a EB or Trustee member of the KMCA.
+
 4.3 KMCA EXECUTIVE BOARD COMMITTEE 
+
 1. In the interest of ensuring smooth functioning of the board, we have created an KMCA Executive Board Committee, which is comprised of all board members of KMCA who are not part of any functional committee 2. This committee shall collectively discuss any items that do not require immediate attention of the Functional Committee Members, so we can plan any non Departmental activities. 
 3. Another goal is to make the KMCA Board meetings more productive and all the Prep work is complete for the non Departmental Activities, prior to the KMCA Board Meeting 
 4. Any decision made to be discussed in the KMCA Board Meeting, prior to execution 
