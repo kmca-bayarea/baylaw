@@ -175,6 +175,7 @@ Functional Committee Leads
 10. Recreational Secretary 
 2. The EC Board member elected for each of the functional committees has to bring a sub-committee of volunteers that include at least two males and two females in consultation with the board to ensure participation from both the genders of the community. The leader has the flexibility to constitute this sub-committee on an event basis or on a continuing basis. The sub-committee members shall be chosen based on input from the leaders of the appropriate gender from the board and input from the leader and the final composition of the sub-committee need to be approved by the board 
 3. The posts of Joint Secretary is reserved for females. Spiritual development will have a separate male and female leads while all other posts can be filled by either male or female through an election process as defined in the Election section 
+
 4.5.1 Role of President 
 The President is the official head of the Association and shall provide leadership and inspiration to the association. The President shall be responsible for: 
 1. Providing the general management for all the activities of the Association 
@@ -183,6 +184,7 @@ The President is the official head of the Association and shall provide leadersh
 5. Representing the Association as the primary spokesperson 
 6. Establishing and maintaining relationships and collaboration between the Association and other national and local organizations 
 7. Direct and provide appropriate recommendation for dispute resolution arising within the Executive Board or in the association 
+
 4.5.2 Role of Vice President 
 The Vice President shall be responsible for: 
 1 Ensuring the Association is in compliance with applicable local, state and federal laws
@@ -190,34 +192,42 @@ The Vice President shall be responsible for:
 3 Carrying out the duties of the President in the absence of the President 
 4 Monitoring, designating tasks that come up in the Board meeting, communicating regularly and reporting back to the Executive Board on its needs. 
 5 Assisting the President in accomplishing and promoting the aims and purposes of the Association 6 Performing any other responsibility assigned by the President or the Executive Board 
+
 4.5.3 Role of General Secretary 
 The General Secretary shall be responsible for: 
 1 Maintaining all official records, meeting minutes and documents of the Executive Board 2 Preparing and publishing the agenda for each Executive Board and General Body meeting 3 Preparing and publishing minutes of all Executive Board and General Body meetings. Recording all decisions in minutes and publishing them no later than two weeks after the meeting 
 4 Presiding over the Executive Board meetings when both the President and the Vice President are absent 
 5 Presenting the minutes of previous Executive Board meetings for approval 
 6 Managing the operations (legal etc) of the Association 
-7 Performing any other responsibility assigned by the President or the Executive Board 4.5.4 Role of Joint Secretary (Reserved for Females) 
-The Joint Secretary shall be the primary liaison of the board to the females of the association 1. Assist the general secretary in the overall operations of the association 
+7 Performing any other responsibility assigned by the President or the Executive Board 
+
+4.5.4 Role of Joint Secretary (Reserved for Females) 
+The Joint Secretary shall be the primary liaison of the board to the females of the association
+1. Assist the general secretary in the overall operations of the association 
 2. Ensure the board decisions are communicated properly to females of the association through appropriate channels 
 3. Assist in constituting the sub-committees of the functional committees and ensure enough representation from female side is obtained in each of the sub-committees 
 4. Provide conflict resolution assistance to the leaders of the functional committees and the board 5. Ensure enough participation from the female side in the activities of the organization and raise concern if any board decisions or functional committee actions overlook female interests 6. Perform any other responsibility assigned by the President or the Executive Board 
+
 4.5.5 Role of Treasurer 
 The Treasurer shall be responsible for: 
 1 Preparation and filing of any and all applicable federal, state and other tax returns 2 Maintaining a record of all financial accounts and transactions of the Executive Board 3 Authorizing or signing all disbursements and transfers on behalf of the Executive Board in accordance with the best financial practices as seem fit for the organization 
 4 Preparing the annual budget of the Executive Board and submitting for approval by the Joint Session of the boards meeting no later than thirty days from the day the new Executive Board takes charge 5 Presenting a annual financial report to the Executive Board 
 6 Countersigning all withdrawal checks on behalf of the Executive Board 
 7 Performing any other responsibility assigned by the President or the Executive Board 
+
 4.5.6 Role of Islamic Services Secretary – (Functional Committee) 
 The Islamic Services Secretary shall be responsible for: 
 1 Directing and supervising all arrangements for celebration of Eid festivals and one Ramadan Iftar programs: such as picnics, dinners, lectures, etc. 
 2 Informing members about the time, place, and details of events 
 3 Coordinating with Tarbiyah Secretary to conduct activities that would attract Members that are unfamiliar with the activities of the Association 
 4 Performing any other responsibility assigned by the President or the Executive Board
+
 4.5.7 Role of Spiritual Development (Tarbiyah) Secretary (Functional Committee) 
 The Tarbiyah secretary shall be responsible for: 
 1 Creating a curricula and organizing programs that promote improvement in Islamic character and knowledge of the community through the study of the Quran, the Sunnah and the Seerah of the Prophet 2 Managing all the volunteers that create, update and deliver the Islamic curricula and services 3 Coordinating with Youth to conduct additional da’wah activities specifically for the youth 4 Coordinating with Social Secretary to conduct activities that would attract Muslims that are unfamiliar with the activities of the Association 
 5 Ensuring that community events organized by KMCA will arrange and hold congregational prayers at its appropriate time during the event 
 6 Performing any other responsibility assigned by the President or the Executive Board 
+
 4.5.8 Role of Social Services Secretary (Functional Committee) 
 The Social Services Secretary shall be responsible for: 
 1 Directing and supervising all arrangements for social programs such as feed the hungry, Charity Projects, etc 
@@ -225,11 +235,13 @@ The Social Services Secretary shall be responsible for:
 3 Coordinating with Tarbiyah Secretary to conduct activities that would attract Members that are unfamiliar with the activities of the Association 
 4 Performing any other responsibility assigned by the President or the Executive Board 5 Creating a policy document for approval by executive board for raising and disbursing funds for charitable purposes both nationally and internationally 
 6 Approving fund request and administering disbursals to the needy 
+
 4.5.9 Role of Recreational Secretary (Functional Committee) 
 The Recreational/Physical Actvities Secretary shall be responsible for 
 1 Directing and supervising all arrangements for Physical/Recreational programs such as Sports/ Camping, etc 2 Informing members about the time, place, and details of the festivals and social events through the Communications Secretary 
 3 Coordinating with Social Services Secretary to conduct activities that would attract Members that are unfamiliar with the activities of the Association 
 4 Performing any other responsibility assigned by the President or the Executive Board 
+
 4.6 EXECUTIVE BOARD ELECTION 
 1. The executive board will be selected based on an election wherein all qualified members of the association will vote 
 2. A member who is more than 16 years old and is sane will be given one vote to elect each position in the executive board 
@@ -240,11 +252,13 @@ The Recreational/Physical Actvities Secretary shall be responsible for
 7. Candidates in an election may only run for one position at a time.
 8. Before members of the Executive Board may run for other elected positions, they must first resign from their current position before accepting nominations for candidacy in the upcoming election unless this is for a re-election of the same position or if their term is naturally ending at the end of the current term. 
 9. In case of any vacancy in the EC Board, any existing EC member can fill that position upon approval from the board. The board may decide to conduct by-elections to fill any vacant position after rearrangement or decide to nominate from among the members.All replacement members must meet the requirements of an elected member and the appointment should be approved by 2/3rd of the Executive Board 
+
 4.7 EXECUTIVE BOARD MEMBER REQUIREMENTS 
 In addition to the membership requirement for the association, a member of the Executive Board must meet the following additional qualifications. 
 1. More than 18 years of age, practicing Muslim known for their Islamic manners and morals in their community and organization dealings as agreeable by at least two members of the previous Executive Board 
 2. Be an active member in the community activities as agreeable by at least two members of the previous Executive Board 
 3. Be a member of the association for a minimum of one year. 
+
 4.8 EXECUTIVE BOARD CHARTER AND DECISION MAKING PROCESS 
 1. The Executive Board shall meet at least once every month at such a time and place as is most suitable to most of the board members. The President may call Executive Board meetings in addition to the regular monthly meeting whenever necessary. An emergency meeting of the Executive Board may be requested in writing by at least three of the Executive Board members. Such a meeting shall be held within two weeks after the written request is presented to the President or the member presiding in his absence 
 2. At least a simple majority of the executive board (more than half of the existing board) should be present to have a quorum for the meeting 
@@ -252,28 +266,35 @@ In addition to the membership requirement for the association, a member of the E
 4. In case of a tie, the President shall cast the tie-breaking vote. The President may veto a decision made by a simple majority. However a two-thirds majority of the members present, not counting the President can override any presidential veto. In the President’s absence, the person assuming the President’s duties cannot assume the veto power. 
 5. The Executive Board may appoint a functional committee to carry out a specific assignment or to investigate or study any issue it deems significant. The assignment of the committee, responsibilities and functioning shall be precisely defined through a memorandum of the appointing body as appropriate. The maximum tenure of all functional committees shall be one year. 
 6. Executive Board meetings shall be open to the members of the Association as observers except when discussing confidential personnel matters as determined by simple majority of the board. 7. A copy of all meeting minutes, preliminary or approved, of the Executive Board shall be made publicly accessible to the members of the Association within fifteen (15) days of the meeting if there is a request. 
+
 4.9 DISQUALIFICATION 
 1. Any KMCA member can submit a proposal to remove any member of the executive board / Board of trustees from the current executive board in writing all the reasoning and details.EB and BOT will review any properly submitted written request and will investigate and respond to the member, as needed . 
 2. A member of the Executive Board may be removed from the board by a vote of at least a 90% (rounded to the lower whole, 5.3 and 5.6 will round to 5) of the members of the joint boards (Executive Board and BOT)or one less than the total number excluding the member whose removal is sought . A special meeting must be called, with at least two week’s notice, after the motion has been made with the concerned member informed of the decision. The motion of removal must include reasons for dismissal. The member whose dismissal is being considered shall not chair or vote at this meeting.
 3. A member of the BOT may be removed from the board by a vote of at least a 90% (rounded to the lower whole, 5.3 and 5.6 will round to 5) of the members of the joint boards (Executive Board and BOT) or one less than the total number excluding the member whose removal is sought . A special meeting must be called, with at least two week’s notice, after the motion has been made with the concerned member informed of the decision. The motion of removal must include reasons for dismissal. The member whose dismissal is being considered shall not chair or vote at this meeting. 
 4. Any disqualification from basic membership as defined in Membership section will disqualify the member from Executive Board 
+
 4.10 CONFLICT OF INTEREST 
 1. During their term in office, members of the Executive Board/Functional Committees cannot receive any monetary or non-monetary compensation, gifts or benefits from the Association or any third party doing business with the Association, other than Zakat or direct reimbursement for approved expenses. 
 2. Whenever a member of the Executive Board/Functional Committee has a financial, personal or familial interest in any matter coming before the board, the member shall fully disclose the nature of the interest and withdraw from discussion, lobbying, and voting on the matter. The minutes of meetings at which such votes are taken shall record such disclosure, abstention and rationale for approval 
+
 ARTICLE 5. GENERAL BODY 
+
 5.1 MEETING REQUISITES 
 1. The Executive Board shall call a general body meeting once a year or upon receiving a written request signed by at least fifteen per cent of the members of the Association. Such a meeting will be held within five weeks of receipt of the written request. Additional General Body meetings may be called at the discretion of the Executive Board. 
 2. General Body meetings should be called at a time convenient to all members such as evenings or weekends and shall be held physically in a location where deemed appropriate. 
 3. Any items to be voted upon must be placed on the agenda. Written or printed notice of a General Body meeting, including the agenda for the meeting, shall be e-mailed to all members of the Association at least one week prior to the date of the meeting. 
 4. A quorum of twenty percent of the Association members is required for a General Body meeting to be held unless stated otherwise elsewhere in the constitution. Quorum should be taken within thirty minutes of the meeting’s advertised starting time. If no quorum is met then the meeting may continue to solicit informal feedback from the members present about the agenda items. An informal poll may also be taken for those agenda items and may distinguish between the opinions of members and other attendees. If no quorum is met, the Executive Board members can decide on any agenda items that were planned to be voted on during that meeting, except those requiring a special majority vote as stated elsewhere in the by-laws or specially called General Body Meeting. 
 5. A two-third majority of Executive Board shall be present at each General Body meeting 6. A simple majority vote of members present is sufficient for decisions on all matters except those requiring a special majority vote as stated elsewhere in the By-laws. 
+
 5.2 AGENDA 
 The following agenda items are predetermined for each annual General Body meeting. 
 1. The first annual General Body meeting must be held within the first two months of the result of the convening of the new Executive Board. It must include a presentation and approval of the annual plan for the Association and various functional committees for the upcoming year. The annual plan must be provided to the members along with the meeting notice and agenda 
 2. The second annual General Body meeting must be held six months from the 1st GB Meeting(Approx) and serve as the annual General Body meeting. The Executive Board, and each functional committees shall present for approval by the General Body a written annual report and assessment of the performance compared to long-term plans of each functional committees
 3. Constitutional amendments can be put in agenda items that may be added by individual members of the Association by submitting items 1 week to the executive board prior to the scheduled General Body meeting. Agenda items for discussion but do not need any vote may be added by individual members from the floor during the meeting 
+
 ARTICLE 6. DISPUTE RESOLUTION 
 This following by-laws will be used to resolve dispute among Executive board members or association members within the scope of the organization 
+
 1. The normal course of resolution of any dispute arising within the Executive board is through discussion in the next Executive Board meeting. 
 2. The normal course of resolution of any dispute arising between any member of the association and Executive board is through the established communication channels wherein a member can seek to talk or communicate with the President of KMCA and the appropriate member. The Executive board collectively can propose and relieve the concern of the member. However, the President can recommend for judiciary proceedings as described below based on the nature and intensity of the dispute 
 3. Any member of the Association may bring charges of misconduct or violation of the constitution or bylaws against any board member who served within the previous one-year, or committee member. Such charges and evidence shall be given in writing to the Executive Board and must include the relief sought. 
@@ -282,6 +303,7 @@ This following by-laws will be used to resolve dispute among Executive board mem
 6. This panel shall act as a panel of mediators rather than advocates for either party. Decisions shall be made by a simple majority of the panel and a decision shall be reached within two months of formation. 7. Upon the formation of the panel, all parties must agree in writing that the findings of the Judiciary Panel shall constitute binding arbitration. 
 8. The chairperson of the panel shall fix the time for the first session of the panel within two weeks after the formation of the panel and shall notify, in writing, the panelists at least one week before the scheduled session. In this first meeting, the panel shall review the merits of the charges brought and issue a ruling on whether to continue with the proceedings or dismiss the charges. 
 9. The panel shall hear the accusations as well as witnesses from both sides, examine all evidence and recommend corrective measures. The panel may consult with an attorney if needed and report its findings to the Executive Board, which is obligated to enforce the decision of the panel. If at any time during the proceedings, the panel uncovers evidence of criminal acts, these shall be immediately reported to the law enforcement authorities. Based on the findings of the panel, the Association reserves the right to pursue civil legal action. All decisions of the judiciary panel are arrived at by a simple majority. 
+
 ARTICLE 7. DISSOLUTION OF THE ASSOCIATION 
 1. A decision to dissolve the Association can only be reached at a General Body meeting held for that purpose and requires approval by at least four fifths (80 percent) of the members of the Association 
 ARTICLE 8. ADOPTION OF THE CONSTITUTION 
