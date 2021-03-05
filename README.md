@@ -306,16 +306,19 @@ This following by-laws will be used to resolve dispute among Executive board mem
 
 ARTICLE 7. DISSOLUTION OF THE ASSOCIATION 
 1. A decision to dissolve the Association can only be reached at a General Body meeting held for that purpose and requires approval by at least four fifths (80 percent) of the members of the Association 
+
 ARTICLE 8. ADOPTION OF THE CONSTITUTION 
 1. This Constitution shall be adopted and in force effective immediately after an initial election has been made to choose an Executive Board which constitutes the event of the formal existence of KMCA
 2. The constitution shall be ratified once approved by two-thirds of the members present in the first executive board meeting. 
 3. In case of ambiguity regarding the interpretation of any sections of the constitution or possible conflict between two or more sections, the interpretation of the Executive Board to clarify the ambiguity or to resolve the conflict shall be final. Any interpretation or reinterpretation and the reasoning should be documented as an appendix to this constitution 
 4. A General body meeting shall be convened within 45 days of the formation of the Executive Board. The draft should be sent out to all members of the organization a week before the General Body meeting. 5. During the meeting an affirmative vote by two thirds of the members present, which is at least one third of the Association membership, shall constitute the adoption of the constitution 
 6. The president and vice president jointly shall be responsible for maintaining the official version of the constitution 
+
 ARTICLE 9. AMENDMENTS TO THE CONSTITUTION 
 1. This Constitution cannot be replaced in its entirety. Sections of this Constitution other than Article 1(Name and Charter of the Org), Article 2 (Section 1(Vision), Section 2(Mission)), Article 3(Membership) (Section 1, Section 2 and Section 3), Article 7 (Dissolution of the Association) and Article 9 (Amendments to the Constitution)may be subjected to amendments 
 2. A proposal for an amendment to the constitution shall be signed by at least ten per cent of the Association members and submitted to the Executive Board. The Executive Board can also seek any amendments needed 
 3. The President shall call a General Body meeting to vote on the proposed amendment(s). This meeting shall be held at least thirty days and no more than sixty days after the proposal is submitted. 
 4. An affirmative vote by two thirds of the members present, providing the affirmative vote constitutes at least one third of the Association membership, shall be necessary for the adoption of all amendments. 
+
 APPENDIX SECTION 
 Add new sections – Budgeting, Finance, Anything else from shanavas
