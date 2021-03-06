@@ -101,7 +101,9 @@ for the BoT election. The members of the BoT election committee will be from the
 The BoT Election committee should send out the announcement of the BoT election at least 30 days before the election ,with the important details including but not limited to the following 
 
 ● Last date to submit the nomination 
+
 ● Date to Publish the election results 
+
 ● Polling method and procedure 
 
 4.4.3.3 Eligibility Criteria to contest in KMCA BoT election 
