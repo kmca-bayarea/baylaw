@@ -72,6 +72,7 @@ The organization shall be governed by an executive board that is selected throug
 3. Another goal is to make the KMCA Board meetings more productive and all the Prep work is complete for the non Departmental Activities, prior to the KMCA Board Meeting 
 4. Any decision made to be discussed in the KMCA Board Meeting, prior to execution 
 5. Some examples include: Website, Identifying areas for Policy and Guidelines, etc 
+
 4.4 KMCA BOARD OF TRUSTEES 
 1. Four members who are the official signatories with the State of California satisfying legal requirements will act as the Board of Trustees of KMCA. 
 2. Board of Trustees (BOT) will be signing authorities that interacts with government entities – President, Vice President, Secretary and Treasurer 
@@ -98,11 +99,13 @@ Election to select the Board of Trustees will happen every 2 years. Election for
 The KMCA Executive committee Vice President shall form an election committee to conduct the election for BoT . The KMCA executive committee Vice President will assume the role of the returning officer
 for the BoT election. The members of the BoT election committee will be from the KMCA Executive committee. The KMCA BoT election committee should have a minimum 3 members including the vice president of the executive committee. 
 The BoT Election committee should send out the announcement of the BoT election at least 30 days before the election ,with the important details including but not limited to the following 
+
 ● Last date to submit the nomination 
 ● Date to Publish the election results 
 ● Polling method and procedure 
 
 4.4.3.3 Eligibility Criteria to contest in KMCA BoT election 
+
 To Contest for an office in KMCA BoT , all of the following conditions need to be satisfied 
 1. Candidate must be a US Citizen or a US permanent resident. 
 2. The candidate must have served in the executive committee for at least two years 
@@ -124,7 +127,9 @@ BOT treasurer to work with EB treasurer to ensure that following forms are filed
 2. SI 100 (Statement Of Information ) - Once in every two years - Due in July 
 3. Annual Registration/Renewal Fee Report (RRF-1)- within four months and fifteen days after the end of the organization's accounting period. 
 4. Renewal of Liability Insurance - Annual
+
 4.4.5 Operational Details 
+
 4.4.5.1 BOT Meetings 
 1. Recommended Frequency - Three times in an year 
 2. The quorum for the BOT meeting shall be at least more than 75% of the membership of the BOT enabled by Virtual meetings - 3 out 4 members 
